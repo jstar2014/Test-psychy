@@ -1,0 +1,36 @@
+body {
+    font-family: 'Comic Sans MS';
+    background: linear-gradient(135deg, rgb(105, 244, 90) 10%, blue 80%);
+    color: azure;
+    margin: 50px auto;
+    padding: 30px;
+    max-width: 1000px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+
+}
+button{
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: blueviolet;
+    border: none;
+    color: azure;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(43, 226, 202, 0.584);
+    color: azure;
+}
+.pytanie{
+    margin-bottom: 25px;
+    background: rgba(0, 0, 0, 0.121);
+    padding: 15px;
+    border-radius: 10px;
+}
